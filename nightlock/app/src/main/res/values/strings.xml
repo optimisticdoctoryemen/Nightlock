@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NightLock</string>
+    <string name="accessibility_service_label">NightLock Sleep Guard</string>
+    <string name="accessibility_service_description">Enforces your bedtime lock by blocking apps, split-screen, and Settings until your scheduled morning wake time. Morning alarm clock apps remain allowed.</string>
+    <string name="device_admin_label">NightLock Uninstall Shield</string>
+    <string name="device_admin_description">Prevents NightLock from being uninstalled while your bedtime lock is active.</string>
+    <string name="device_admin_disable_warning">Deactivating NightLock Uninstall Shield will allow the app to be uninstalled.</string>
+</resources>
