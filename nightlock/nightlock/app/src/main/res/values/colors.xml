@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="night_bg">#080A10</color>
+    <color name="night_surface">#111521</color>
+    <color name="night_accent">#818CF8</color>
+    <color name="night_amber">#F59E0B</color>
+</resources>
